@@ -34,7 +34,7 @@
     <string name="sync_menu_sync_cancel" msgid="1005480041232010062">"إلغاء المزامنة"</string>
     <string name="sync_one_time_sync" msgid="3274364877518422827">"المس للمزامنة الآن<xliff:g id="LAST_SYNC_TIME">
 %1$s</xliff:g>"</string>
-    <string name="sync_gmail" msgid="5806053858668452000">"Gmail"</string>
+    <string name="sync_gmail" msgid="5806053858668452000">"بريد الجيميل"</string>
     <string name="sync_calendar" msgid="1796292773734071897">"التقويم"</string>
     <string name="sync_contacts" msgid="2035690905925565660">"جهات الاتصال"</string>
     <string name="sync_too_many_deletes_desc" msgid="699495654174066067">"هناك <xliff:g id="NUMBER_OF_DELETED_ITEMS">%1$d</xliff:g> من العناصر المحذوفة بالنسبة إلى <xliff:g id="TYPE_OF_SYNC">%2$s</xliff:g>، الحساب <xliff:g id="ACCOUNT_NAME">%3$s</xliff:g>. ما الذي تريد القيام به؟"</string>
